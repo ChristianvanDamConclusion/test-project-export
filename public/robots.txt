@@ -1,0 +1,3 @@
+User-agent:*
+Disallow:
+Sitemap: https://crm-template.weweb.io/sitemap.xml

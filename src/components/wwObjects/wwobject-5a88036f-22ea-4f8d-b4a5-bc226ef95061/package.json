@@ -1,0 +1,14 @@
+{
+  "name": "ww-stack",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "weweb build",
+    "serve": "weweb serve"
+  },
+  "devDependencies": {
+    "@weweb/cli": "latest"
+  },
+  "dependencies": {
+    "vuedraggable": "^4.1.0"
+  }
+}
